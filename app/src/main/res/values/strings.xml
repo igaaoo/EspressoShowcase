@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EspressoShowcase</string>
+    <string name="toast">Aceitar os termos é necessário para prosseguir!</string>
+</resources>
